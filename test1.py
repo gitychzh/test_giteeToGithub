@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print("testgitee")
     print("a4")
     print("a5")
+    print("connect gitee and github together")
